@@ -1,6 +1,6 @@
 # Explore Our Travel Project! 🌍🚀
 
-In this project, we have developed a platform where users can share their travel experiences on a map and showcase the places they have visited. We are thrilled to present this project together with my teammate [Ekrem Güneş](https://github.com/ekremgunes).
+In this project, we have developed a platform where users can share their travel experiences on a map and showcase the places they have visited. We are thrilled to present this project together with my teammate [Enes Biricik](https://github.com/EnesBiricik).
 
 ## 🔹 Key Features
 
